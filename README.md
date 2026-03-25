@@ -1,13 +1,10 @@
-# Proyecto_cientifico_de_datos
+# Proyectos en ciencia de datos.
 ¿Cuales son las caracteristicas afiliadas a proyectos liderados y ejecutados por un cientifico de datos?
+<br>
+> [!IMPORTANT]
+> Un científico de datos recopila, analiza e interpreta macrodatos para descubrir patrones e información, realizar predicciones y crear planes accionables. Los macrodatos se pueden definir como conjuntos de datos que tienen mayor variedad, volumen y velocidad de los que los métodos de administración de datos anteriores estaban equipados para controlar.
 
-<div style="background-color: #FA8FE1; padding: 10px;">
-  <h1>Título con fondo</h1>
-  <p>Este texto tiene un fondo de color.</p>
-</div>
-
-
-## Color Reference
+## Algunos tipos de proyectos en ciencia de datos.
 
 | Sector            | Tipos de proyectos                                                             |
 | ----------------- | ------------------------------------------------------------------ |
@@ -18,7 +15,7 @@
 | Sector sanitario | Tratamientos farmacológicos basados en evidencias y rentabilidad de nuevos medicamentos. <br> Seguimiento en tiempo real de brotes de enfermedades. <br> Rastreadores ponibles para mejorar la atención al paciente |
 
 ## Caracteristicas.
-Es primordial que los proyectos en la ciencia de datos manejen grandes volúmenes de datos y cumplan con ciertos pasos o características:  
+> Es primordial que los proyectos en la ciencia de datos manejen grandes volúmenes de datos y cumplan con ciertos pasos o características:  
 ### 💡 Establecer claramente la pregunta o el problema.
 ### 📝 Obtener los datos.
 El científico de datos identifica y adquiere los datos necesarios para lograr el resultado deseado.
@@ -27,9 +24,14 @@ Para crear el conjunto de datos para el modelado, el científico de datos convie
 ### 🌍 Explorar los datos.
 Comprender un conjunto de datos, ya que ayuda a los equipos a investigar y resumir la información para detectar patrones, identificar problemas y obtener una idea clara de cómo se comportan los datos.
 ### ⏩ Modelar los datos.
-
+El científico de datos construye modelos, esencialmente código que transforma datos en respuestas, seleccionando un algoritmo y ajustando sus hiperparámetros para optimizar el rendimiento. Esta elección no es al azar, sino que depende de los objetivos del negocio y de restricciones técnicas como la precisión o la velocidad, apoyándose en herramientas como Azure Machine Learning que facilitan la selección del algoritmo ideal para cada problema específico.
 ### 👾 Implementar el modelo.
+El científico de datos entrega el modelo final con documentación e implementa el nuevo conjunto de datos en producción después de las pruebas, para que pueda desempeñar un papel activo en una empresa. Las predicciones a partir de un modelo implementado pueden usarse en las decisiones empresariales.
+
 ### 👀 Visualizar y comunicar los resultados.
+
+[![AGPL License](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-data-science)](http://www.gnu.org/licenses/agpl-3.0)
+
 
 
 
