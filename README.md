@@ -11,6 +11,7 @@
 
 ## Algunos tipos de proyectos en ciencia de datos.
 
+
 <div align="center">
   
 | Sector            | Tipos de proyectos                                                             |
@@ -26,7 +27,7 @@
 ## Caracteristicas.
 Es primordial que los proyectos en la ciencia de datos manejen grandes volúmenes de datos y cumplan con ciertos pasos o características:  
 ### 💡 Establecer claramente la pregunta o el problema.
-> Ej: ¿Existe una relación entre el nivel educativo de los padres y el rendimiento de los estudiantes en la prueba ICFES Saber 11?
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`Ej: ¿Existe una relación entre el nivel educativo de los padres y el rendimiento de los estudiantes en la prueba ICFES Saber 11?
 ### 📝 Obtener los datos.
 El científico de datos identifica y adquiere los datos necesarios para lograr el resultado deseado.
 ### 🚽 Limpiar los datos.
@@ -53,8 +54,17 @@ El científico de datos entrega el modelo final con documentación e implementa 
 
 <br>
 
-[![fuente](https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png)](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-data-science)
+<div align="center">
+  
+![Imagen](https://blog.ebac.mx/blog/wp-content/uploads/2022/09/rtxhjjbf4yemlrmkmyje-e1662128172667.jpeg)
 
-![Imagen](https://i.pinimg.com/originals/53/33/12/5333120d65dbaa1ae7e49ff1139bead2.gif)
+</div>
+
+>### Bibliografia: 
+
+> [![fuente](https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png)](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-data-science)
+
+
+
 
 
