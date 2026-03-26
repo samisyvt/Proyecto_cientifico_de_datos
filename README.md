@@ -1,12 +1,13 @@
 # Proyectos en ciencia de datos.
 *¿Cuales son las caracteristicas afiliadas a proyectos liderados y ejecutados por un cientifico de datos?*
 <br>
+
+<img src="gif.gif" align="right" width="170" />
+
 > [!IMPORTANT]
 > Un científico de datos recopila, analiza e interpreta macrodatos para descubrir patrones e información, realizar predicciones y crear planes accionables. Los macrodatos se pueden definir como conjuntos de datos que tienen mayor variedad, volumen y velocidad de los que los métodos de administración de datos anteriores estaban equipados para controlar.
 
-<img src="https://i.pinimg.com/originals/53/33/12/5333120d65dbaa1ae7e49ff1139bead2.gif)" align="right" width="380" />
-
-![Imagen](https://i.pinimg.com/originals/53/33/12/5333120d65dbaa1ae7e49ff1139bead2.gif)
+<br>
 
 ## Algunos tipos de proyectos en ciencia de datos.
 
@@ -25,7 +26,7 @@
 ## Caracteristicas.
 Es primordial que los proyectos en la ciencia de datos manejen grandes volúmenes de datos y cumplan con ciertos pasos o características:  
 ### 💡 Establecer claramente la pregunta o el problema.
-> Ej: 
+> Ej: ¿Existe una relación entre el nivel educativo de los padres y el rendimiento de los estudiantes en la prueba ICFES Saber 11?
 ### 📝 Obtener los datos.
 El científico de datos identifica y adquiere los datos necesarios para lograr el resultado deseado.
 ### 🚽 Limpiar los datos.
@@ -54,6 +55,6 @@ El científico de datos entrega el modelo final con documentación e implementa 
 
 [![fuente](https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png)](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-data-science)
 
-
+![Imagen](https://i.pinimg.com/originals/53/33/12/5333120d65dbaa1ae7e49ff1139bead2.gif)
 
 
