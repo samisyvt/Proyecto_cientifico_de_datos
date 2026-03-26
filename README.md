@@ -26,7 +26,7 @@
 
 ## Caracteristicas.
 Es primordial que los proyectos en la ciencia de datos manejen grandes volúmenes de datos y cumplan con ciertos pasos o características: 
-- Proyecto de ejemplo: [Descargar PDF](./mi_archivo.pdf)
+- Proyecto de ejemplo: [Descargar PDF](./trabajo_asistido_introduccion_a_la_ciencia_de_datos_930am_taller05_vasquez_castro_marquez.pdf)
 
 ### 💡 Establecer claramente la pregunta o el problema.
 - Ej: ¿Existe una relación entre el nivel educativo de los padres y el rendimiento de los estudiantes en la prueba ICFES Saber 11?
