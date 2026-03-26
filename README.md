@@ -4,7 +4,9 @@
 > [!IMPORTANT]
 > Un científico de datos recopila, analiza e interpreta macrodatos para descubrir patrones e información, realizar predicciones y crear planes accionables. Los macrodatos se pueden definir como conjuntos de datos que tienen mayor variedad, volumen y velocidad de los que los métodos de administración de datos anteriores estaban equipados para controlar.
 
-![Imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+<img src="https://i.pinimg.com/originals/53/33/12/5333120d65dbaa1ae7e49ff1139bead2.gif)" align="right" width="380" />
+
+![Imagen](https://i.pinimg.com/originals/53/33/12/5333120d65dbaa1ae7e49ff1139bead2.gif)
 
 ## Algunos tipos de proyectos en ciencia de datos.
 
@@ -45,8 +47,8 @@ El científico de datos entrega el modelo final con documentación e implementa 
 *Algunos programas utilizados son:*
 <br>
 
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-blue?logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-blue?logo=tableau&logoColor=pink)
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi&logoColor=purple)
 
 <br>
 
