@@ -30,7 +30,7 @@ El científico de datos entrega el modelo final con documentación e implementa 
 
 ### 👀 Visualizar y comunicar los resultados.
 
-[![AGPL License](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-data-science)](http://www.gnu.org/licenses/agpl-3.0)
+[![portfolio](https://msftstories.thesourcemediaassets.com/2022/05/Microsoft-logo_rgb_c-gray-768x344.png)](https://katherineoelsner.com/)
 
 
 
