@@ -6,6 +6,8 @@
 
 ## Algunos tipos de proyectos en ciencia de datos.
 
+<div align="center">
+  
 | Sector            | Tipos de proyectos                                                             |
 | ----------------- | ------------------------------------------------------------------ |
 | Empresa |Desarrollo de nuevos productos y mejoras. <br> Administración de la cadena de suministro y el inventario. <br> Mejoras en el servicio al cliente. <br> Recomendaciones de productos para clientes de comercio electrónico |
@@ -13,6 +15,8 @@
 | Finanzas y banca | Prevención de fraudes y otras vulneraciones de seguridad. <br> Administración de riesgos de carteras de inversión. <br> Asistentes virtuales para ayudar a los clientes con preguntas |
 | Administración pública | 	Decisiones políticas. <br> Supervisión de la satisfacción de los electores. <br> Detección de fraudes, por ejemplo, reclamaciones de discapacidad social |
 | Sector sanitario | Tratamientos farmacológicos basados en evidencias y rentabilidad de nuevos medicamentos. <br> Seguimiento en tiempo real de brotes de enfermedades. <br> Rastreadores ponibles para mejorar la atención al paciente |
+
+</div>
 
 ## Caracteristicas.
 > Es primordial que los proyectos en la ciencia de datos manejen grandes volúmenes de datos y cumplan con ciertos pasos o características:  
@@ -30,7 +34,10 @@ El científico de datos entrega el modelo final con documentación e implementa 
 
 ### 👀 Visualizar y comunicar los resultados.
 
-[![portfolio](https://msftstories.thesourcemediaassets.com/2022/05/Microsoft-logo_rgb_c-gray-768x344.png)](https://katherineoelsner.com/)
+
+<br>
+
+[![portfolio](https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png)](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-data-science)
 
 
 
